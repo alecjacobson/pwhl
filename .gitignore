@@ -1,4 +1,5 @@
 .DS_Store
 webarchives/
 *.zip
+!pwhl-on-google-unofficial.zip
 download.png
