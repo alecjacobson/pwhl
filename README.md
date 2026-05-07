@@ -24,6 +24,10 @@ Chrome does not allow installing extensions from outside the Web Store without e
 
 To update, re-download the zip, replace the folder contents, and click the refresh icon on the extension card at `chrome://extensions`.
 
+## Acknowledgements
+
+API endpoint documentation sourced from [IsabelleLefebvre97/PWHL-Data-Reference](https://github.com/IsabelleLefebvre97/PWHL-Data-Reference).
+
 ## Disclaimer
 
 This is an unofficial fan-made extension and is not affiliated with or endorsed by the PWHL or any of its teams. Data is sourced from the same public API used by [thepwhl.com](https://www.thepwhl.com).
